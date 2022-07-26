@@ -775,6 +775,7 @@ li {
   border-radius: 4px;
   position: fixed;
   top: 0;
+  transition: opacity 250ms;
 }
 .modal {
   width: 528px;
